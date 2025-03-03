@@ -1,7 +1,5 @@
 # Associate Data Scientist in Python
 
-![Career Track](https://example.com/track-banner.png)  
-
 ## Overview  
 This repository contains details about the **Associate Data Scientist in Python** career track. This track provides hands-on learning with Python, theory-based concepts, skill assessments, and projects.
 
