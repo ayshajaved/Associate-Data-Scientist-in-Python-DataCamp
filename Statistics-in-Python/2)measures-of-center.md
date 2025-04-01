@@ -93,3 +93,5 @@ Missing values can distort measures of central tendency. Here’s how to handle 
 - **Mean**: Use `np.nanmean()` to ignore missing values (NaN).
 - **Median**: Use `np.nanmedian()` to compute the middle value, skipping NaN.
 - **Mode**: Trickier; `pandas` can help, but check data first.
+
+- Using agg() method can calculate mean and median both
