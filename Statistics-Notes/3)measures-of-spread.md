@@ -131,10 +131,12 @@ The **standard deviation** is the square root of the variance, bringing the meas
 
 ### Formula
 - **Population Standard Deviation (σ)**:
+Measures the spread of entire population
 ```
 σ = √(Σ(xᵢ - μ)² / N)
 ```
 - **Sample Standard Deviation (s)**:
+Measures the spread of the sample of population
 ```
 s = √(Σ(xᵢ - x̄)² / (n - 1))
 ```
